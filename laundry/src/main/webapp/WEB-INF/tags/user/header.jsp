@@ -1,14 +1,17 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: user
-  Date: 2022-12-15
-  Time: 오전 10:19
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<link rel="stylesheet" href="css/header/header.css">
+
+<!-- Google fonts -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+<!-- Vendor CSS Files -->
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
 
 <%--header--%>
 <!-- ======= Header ======= -->
