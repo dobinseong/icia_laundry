@@ -19,7 +19,7 @@
 </head>
 <body>
 <header>
-    <jsp:include page="./../tags/user/header.jsp"/>
+    <jsp:include page="../tags/hf/header.jsp"/>
 
 </header>
 
@@ -72,7 +72,7 @@
 <!-- End Hero -->
 
 <footer>
-    <jsp:include page="./../tags/user/footer.jsp"/>
+    <jsp:include page="../tags/hf/footer.jsp"/>
 </footer>
 
 <!-- (index)main JS Files -->
